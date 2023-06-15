@@ -12,6 +12,8 @@ Welcome to the Top Course Website! This project is a web application built with 
 
 ## Demo Video
 
+"Click on any part of the image to preview the TOPCourseWebsite."
+
 [![Demo Video](Demo1.png)](https://drive.google.com/file/d/1Uv8wzX8YWmDlzKMTI9eodM9BccByf_f0/preview)
 
 ## Installation
